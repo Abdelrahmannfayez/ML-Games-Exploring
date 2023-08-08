@@ -1,5 +1,5 @@
 
-# ** Game Success Prediction Project **
+# **Game Success Prediction Project**
 
 This project aims to predict the success of mobile games by using various features such as pricing, size, user ratings, and more. The dataset used contains information about different mobile games and their attributes. The project involves several steps, including data exploration, visualization, data preprocessing, feature engineering, and model training.
 
